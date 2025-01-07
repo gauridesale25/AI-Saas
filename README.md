@@ -1,4 +1,4 @@
-# Build cloudinary AI powered SAAS
+# Cloudinary AI powered SAAS
 
 Project is Build using NextJS, cloudinary, Prisma, NeonDB and Daisy UI
 "# AI-Saas" 
